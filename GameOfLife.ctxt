@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=GameOfLife
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=primaryStage
+comment2.target=void\ start(javafx.stage.Stage)
+comment3.params=
+comment3.target=void\ addCell()
+comment4.params=
+comment4.target=void\ iterateBoard()
+comment5.params=row\ column
+comment5.target=int\ FieldPosition(int,\ int)
+comment6.params=
+comment6.target=int\ BoardSize()
+comment7.params=
+comment7.target=void\ changePopulation()
+comment8.params=
+comment8.target=void\ createNextCellCreation()
+comment9.params=row\ column\ newBoard
+comment9.target=void\ checkCells(int,\ int,\ int[][])
+numComments=10
