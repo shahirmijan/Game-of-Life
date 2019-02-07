@@ -1,0 +1,15 @@
+.root {
+    -fx-fill: red;
+}
+
+.alive {
+    -fx-background-color: red;
+    -fx-border-color: red;
+    -fx-border-width: 0.2;
+}
+
+.dead {
+    -fx-background-color: white;
+    -fx-border-color: black;
+    -fx-border-width: 0.2;
+}
