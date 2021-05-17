@@ -1,5 +1,5 @@
 # Game-of-Life
-Game of Life in Java
+A Game of Life in Java
 
 # Tool / Languages / Framworks used:
 - Java
